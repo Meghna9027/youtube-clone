@@ -31,17 +31,9 @@ A solo project built in 5 days.
 - Functionality to view Item Details
 - Functionality to add a Items in cart
 
-![Logo](https://images.shopclues.com/images/ui/shopclues_logo@2x.png)
+![Logo](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg)
 
 - Landing page :
 
-![Landing Page](https://user-images.githubusercontent.com/95927895/158878832-a8681047-98e3-4bae-9498-936a3c04a932.png)
+![Landing Page](https://drive.google.com/file/d/1SvPjjkF7Vs_ldNEBF3CaIMBs-sjS_QkO/view?usp=sharing)
 
-- User page :
-
-![User page](https://user-images.githubusercontent.com/95927895/158820102-4edf7c2b-f23b-461f-98ba-4b9ad0b960ef.png)
-
-
-- Payment page :
-
-![Payment page](https://user-images.githubusercontent.com/95927895/158820261-5f0270ee-cd41-4a1f-b4e1-b6239cdcf89d.png)
