@@ -35,5 +35,5 @@ A solo project built in 5 days.
 
 - Landing page :
 
-![Landing Page](https://drive.google.com/file/d/1SvPjjkF7Vs_ldNEBF3CaIMBs-sjS_QkO/view?usp=sharing)
+![Landing Page](https://github.com/Meghna9027/youtube-clone/blob/9b3f0e7f099e1b97fbe6ae99cf559c45a57c4f0f/youtube%201%20(2).png)
 
